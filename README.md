@@ -4,4 +4,6 @@
 ## Para executar
 ### python controlegastos.py
 
+### Projeto criado para fins educacionais 
+
 
